@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "first_name": "Lionel",
+      "last_name": "Childe",
+      "email": "lchilde0@sohu.com",
+      "gender": "Male",
+      "department": "Human Resources",
+      "salary": 5895,
+      "bonus": 1595,
+      "dateOfBirth": "26/02/1986"
+    },
+    {
+      "id": 2,
+      "first_name": "Daphene",
+      "last_name": "Gillies",
+      "email": "dgillies1@theguardian.com",
+      "gender": "Non-binary",
+      "department": "Business Development",
+      "salary": 5665,
+      "bonus": 1710,
+      "dateOfBirth": "10/03/1995"
+    },
+    {
+      "id": 3,
+      "first_name": "Adler",
+      "last_name": "Lauthian",
+      "email": "alauthian2@163.com",
+      "gender": "Male",
+      "department": "Marketing",
+      "salary": 5633,
+      "bonus": 296,
+      "dateOfBirth": "16/11/2000"
+    },
+    {
+      "id": 4,
+      "first_name": "Nathalie",
+      "last_name": "Wellum",
+      "email": "nwellum3@wiley.com",
+      "gender": "Female",
+      "department": "Legal",
+      "salary": 1751,
+      "bonus": null,
+      "dateOfBirth": "12/04/1994"
+    },
+    {
+      "id": 5,
+      "first_name": "Twyla",
+      "last_name": "Cobelli",
+      "email": "tcobelli4@tumblr.com",
+      "gender": "Female",
+      "department": "Engineering",
+      "salary": 4082,
+      "bonus": null,
+      "dateOfBirth": "03/08/2010"
+    },
+    {
+      "id": 6,
+      "first_name": "Persis",
+      "last_name": "Cairns",
+      "email": "pcairns5@virginia.edu",
+      "gender": "Female",
+      "department": "Human Resources",
+      "salary": 2588,
+      "bonus": 617,
+      "dateOfBirth": "05/05/1984"
+    },
+    {
+      "id": 7,
+      "first_name": "Vachel",
+      "last_name": "Fogarty",
+      "email": "vfogarty6@blogspot.com",
+      "gender": "Male",
+      "department": "Accounting",
+      "salary": 4954,
+      "bonus": null,
+      "dateOfBirth": "24/08/2008"
+    },
+    {
+      "id": 8,
+      "first_name": "Gib",
+      "last_name": "Orcas",
+      "email": "gorcas7@dyndns.org",
+      "gender": "Male",
+      "department": "Training",
+      "salary": 5414,
+      "bonus": 688,
+      "dateOfBirth": "23/05/1973"
+    },
+    {
+      "id": 9,
+      "first_name": "Demeter",
+      "last_name": "Walsham",
+      "email": "dwalsham8@hatena.ne.jp",
+      "gender": "Female",
+      "department": "Support",
+      "salary": 5217,
+      "bonus": 1427,
+      "dateOfBirth": "07/02/1974"
+    },
+    {
+      "id": 10,
+      "first_name": "Lorrayne",
+      "last_name": "Fenck",
+      "email": "lfenck9@reverbnation.com",
+      "gender": "Female",
+      "department": "Research and Development",
+      "salary": 5596,
+      "bonus": null,
+      "dateOfBirth": "28/11/1983"
+    }
+  ]
